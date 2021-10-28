@@ -14,5 +14,5 @@
 
 #
 ### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mark-Zuck&show_icons=true&theme=radical)<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alikhanjan99&show_icons=true&theme=radical)<br>
 #
